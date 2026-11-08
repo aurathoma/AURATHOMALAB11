@@ -17,8 +17,7 @@ RoxygenNote: 7.3.2
 Imports: 
     shiny,
     dplyr,
-    ggplot2,
-    Rcpp
+    ggplot2
 LinkingTo: 
     Rcpp
 URL: https://github.com/aurathoma/AURATHOMALAB11

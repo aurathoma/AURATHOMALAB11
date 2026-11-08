@@ -22,6 +22,7 @@
 #'
 #' @import dplyr
 #' @import ggplot2
+#' @importFrom stats sd qt
 #' @export
 #'
 #' @examples
